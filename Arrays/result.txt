@@ -1,0 +1,312 @@
+                Biraj Singh GC        CSC 36400     Section 11
+                   Spring 2020       Assignment #1
+---------------------------------- - ---------------------------------- -  
+
+                                         SOUTHERN COMFORT AIRLINES
+
+Flight 1010                                                  FROM: Jackson, Mississippi
+                                                             TO: Memphis, Tennessee
+
+            2013                5121                -999                
+
+            9083                -999                1190                
+
+            5050                -999                2153                
+
+            8072                3022                -999                
+
+            8156                5047                1101                
+
+            4161                3163                2200                
+
+            3026                2180                9084                
+
+            8154                1103                7068                
+
+            7061                7142                6054                
+
+            -999                -999                -999                
+
+WAITING LIST
+            There is no waiting fot this flight.
+
+END OF SEATING CHART
+
+
+
+
+
+
+
+
+                                         SOUTHERN COMFORT AIRLINES
+
+Flight 1015                                                  FROM: Memphis, Tennessee
+                                                             TO: Jackson, Mississippi
+
+            6053                6052                8071                
+
+            4115                4034                2168                
+
+            -999                8078                -999                
+
+            -999                8155                9111                
+
+            -999                -999                -999                
+
+            -999                -999                1219                
+
+            -999                -999                -999                
+
+            -999                -999                -999                
+
+            7144                -999                -999                
+
+            -999                -999                -999                
+
+WAITING LIST
+            There is no waiting fot this flight.
+
+END OF SEATING CHART
+
+
+
+
+
+
+
+
+                                         SOUTHERN COMFORT AIRLINES
+
+Flight 1020                                                  FROM: Jackson, Mississippi
+                                                             TO: Little Rock, Arkansas
+
+            1007                5195                4211                
+
+            7149                8166                7150                
+
+            3030                6138                5125                
+
+            4112                2014                -999                
+
+            8160                -999                -999                
+
+            -999                -999                -999                
+
+            -999                2020                4038                
+
+            7070                -999                8150                
+
+            -999                -999                1004                
+
+            -999                9189                4117                
+
+WAITING LIST
+            
+      6139   8080   9086   
+
+END OF SEATING CHART
+
+
+
+
+
+
+
+
+                                         SOUTHERN COMFORT AIRLINES
+
+Flight 1025                                                  FROM: Little Rock, Arkansas
+                                                             TO: Jackson, Mississippi
+
+            6206                3210                4118                
+
+            7207                -999                5212                
+
+            2177                8165                -999                
+
+            5041                5123                8215                
+
+            4114                8198                -999                
+
+            9087                -999                8208                
+
+            3170                7175                4204                
+
+            -999                -999                -999                
+
+            3178                3029                7148                
+
+            -999                -999                5126                
+
+WAITING LIST
+            There is no waiting fot this flight.
+
+END OF SEATING CHART
+
+
+
+
+
+
+
+
+                                         SOUTHERN COMFORT AIRLINES
+
+Flight 1030                                                  FROM: Jackson, Mississippi
+                                                             TO: Shreveport, Louisiana
+
+            6130                1001                2018                
+
+            4036                9110                1009                
+
+            7065                6165                1002                
+
+            5045                2017                7143                
+
+            8073                6186                7063                
+
+            6131                6132                5046                
+
+            2218                9109                2016                
+
+            3021                8164                1006                
+
+            5185                4037                9108                
+
+            7066                4031                6056                
+
+WAITING LIST
+            
+      4184   6133   6057   2015   9082   3023   8160   2183   6181   8188   
+      3027   3181   8162   4113   7147   1107   4040   3025   4194   9216   
+      4179   7214   7197   6213   7151   4119   6140   5205   9088   7152   
+      9089   6141   3171   9199   9090   2173   3172   7153   
+
+END OF SEATING CHART
+
+
+
+
+
+
+
+
+                                         SOUTHERN COMFORT AIRLINES
+
+Flight 1035                                                  FROM: Shreveport, Louisiana
+                                                             TO: Jackson, Mississippi
+
+            6058                5122                5048                
+
+            8159                8163                7166                
+
+            8161                1106                1008                
+
+            8076                7145                2192                
+
+            7062                5049                1104                
+
+            2191                6051                5124                
+
+            4033                8075                4116                
+
+            6060                3028                7187                
+
+            6136                6137                4032                
+
+            4159                2169                9196                
+
+WAITING LIST
+            
+      6135   1217   8164   9195   2201   2202   9209   6196   3203   8176   
+      8151   5128   
+
+END OF SEATING CHART
+
+
+
+
+
+
+
+
+                                         SOUTHERN COMFORT AIRLINES
+
+Flight 1040                                                  FROM: Jackson, Mississippi
+                                                             TO: Huntsville, Alabama
+
+            -999                -999                -999                
+
+            -999                7067                -999                
+
+            -999                5042                -999                
+
+            -999                -999                -999                
+
+            -999                -999                -999                
+
+            3193                3024                -999                
+
+            -999                -999                -999                
+
+            -999                -999                -999                
+
+            -999                -999                4120                
+
+            -999                -999                -999                
+
+WAITING LIST
+            There is no waiting fot this flight.
+
+END OF SEATING CHART
+
+
+
+
+
+
+
+
+                                         SOUTHERN COMFORT AIRLINES
+
+Flight 1045                                                  FROM: Huntsville, Alabama 
+                                                             TO: Jackson, Mississippi
+
+            1102                1005                1003                
+
+            6134                7064                8077                
+
+            2012                3167                9085                
+
+            4035                5043                8074                
+
+            3220                2162                7069                
+
+            1010                9081                2011                
+
+            1182                3174                8158                
+
+            5127                7146                4039                
+
+            6059                1105                6055                
+
+            8079                3157                2019                
+
+WAITING LIST
+            
+      8152   
+
+END OF SEATING CHART
+
+
+
+
+
+
+
+
+
+-------------------------------- - 
+         | END OF PROGRAM OUTPUT | 
+-------------------------------- - 

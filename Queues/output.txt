@@ -1,0 +1,50 @@
+                Biraj Singh GC       CSC 36000
+                   Spring 2020       Assignment #3
+----------------------------------------------------------------------
+
+The order of customer arrival is:      The order of customer departure is:
+---------------------------------      -----------------------------------
+Bill Gateway                      |    Ellen Hayes              
+Wanda Moore                       |    Dale Evens               
+Ellen Hayes                       |    Wanda Moore              
+Dale Evens                        |    Hedda Lettuce            
+Hedda Lettuce                     |    Bill Gateway             
+Tom Terrific                      |    Babe Ruth                
+Babe Ruth                         |    Tom Terrific             
+Justin Kase                       |    Sam Spade                
+Yogi Bear                         |    Yogi Bear                
+Sam Spade                         |    Justin Kase              
+Dolly Madison                     |    Davy Jones               
+Davy Jones                        |    Albert Pujols            
+Albert Pujols                     |    Tom Heart                
+Tom Heart                         |    Brooks Robinson          
+Brooks Robinson                   |    Dolly Madison            
+Freddie Freeloader                |    Johnny Unites            
+Johnny Unites                     |    Ron DeVous               
+Stanley Steamer                   |    Freddie Freeloader       
+Ron DeVous                        |    Stanley Steamer          
+Ronald Reagan                     |    Ada Lovelace             
+Charles Babbage                   |    Ronald Reagan            
+Ada Lovelace                      |    Charles Babbage          
+Cal Ripkin                        |    Cal Ripkin               
+Mickey Mouse                      |    Mickey Mouse             
+Donald Duck                       |    Ira Hayes                
+Johnny Walker                     |    Johnny Walker            
+Ira Hayes                         |    Donald Duck              
+Yosemite Sam                      |    Abe Lincoln              
+Abe Lincoln                       |    Yosemite Sam             
+Duddly DoRight                    |    Nice Guy                 
+Alexander Bell                    |    Duddly DoRight           
+Nice Guy                          |    Alexander Bell           
+Ima Hoge                          |    Ima Hoge                 
+Vincent Price                     |    Doctor Pepper            
+Doctor Pepper                     |    Ross Overbeek            
+Peter Pann                        |    Vincent Price            
+Ross Overbeek                     |    Barbara Blum             
+Barbara Blum                      |    James Garfield           
+Kathy Quashknock                  |    Peter Pann               
+James Garfield                    |    Kathy Quashknock         
+
+ --------------------------------- 
+|      END OF PROGRAM OUTPUT      |
+ --------------------------------- 
